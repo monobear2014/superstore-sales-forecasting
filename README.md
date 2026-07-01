@@ -12,4 +12,4 @@ Superstore Dataset
 - MAE Evaluation
 
 ## Result
-Forecast next 12 weeks of sales.
+Forecast next 12 weeks of sales
